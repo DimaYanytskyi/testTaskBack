@@ -40,7 +40,7 @@ for i in range(1, count + 1):
         picture = None
         text = None
     elif rtype == "image":
-        picture = f"https://ih1.redbubble.net/image.4905811447.8675/flat,750x,075,f-pad,750x1000,f8f8f8.jpg"
+        picture = f"https://img.freepik.com/free-vector/illustration-gallery-icon_53876-27002.jpg?semt=ais_hybrid&w=740&q=80"
         url = None
         text = None
     else:
